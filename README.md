@@ -1,6 +1,7 @@
 ### Hi there 👋
 This is my first Git project
-<br>Author - Sanu 
+<br>
+Author - Sanu 
   <br>
 <!--
 **Sanu825/Sanu825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
